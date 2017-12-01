@@ -1,0 +1,11 @@
+<root>
+  <node name="1" file="model/Box01.sm.xml"    pos="0 0 0"   rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Sphere01.sm.xml" pos="10 0 0"  rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Box01.sm.xml"    pos="20 0 0"  rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Teapot01.sm.xml" pos="30 0 0"  rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Torus01.sm.xml"  pos="40 0 0"  rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Box01.sm.xml"    pos="50 0 0"  rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Box01.sm.xml"    pos="60 0 0"  rot="0 0 0" scale="1 1 1"/>
+  <node name="1" file="model/Box01.sm.xml"    pos="70 0 0"  rot="0 0 0" scale="1 1 1"/>
+  
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<MeshRoot>
+<mesh name = "Pyramid01">
+<faceIndex size = "8" material ="03 - Default">
+<face>0 1 2</face><face>0 2 3</face><face>0 3 4</face><face>0 4 1</face><face>1 5 2</face><face>2 5 3</face><face>3 5 4</face><face>4 5 1</face>
+
+</faceIndex>
+<vertex size = "6">
+<vertexdata>0.000000 1.005000 0.000000 0.000000 0.447214 0.894427 0.500000 1.000000</vertexdata><vertexdata>-0.500000 0.005000 0.500000 0.000000 0.447214 0.894427 0.000000 0.000000</vertexdata><vertexdata>0.500000 0.005000 0.500000 0.000000 0.447214 0.894427 1.000000 0.000000</vertexdata><vertexdata>0.500000 0.005000 -0.500000 0.894427 0.447214 0.000000 1.000000 0.000000</vertexdata><vertexdata>-0.500000 0.005000 -0.500000 0.000000 0.447214 -0.894427 1.000000 0.000000</vertexdata><vertexdata>0.000000 0.005000 0.000000 0.000000 -1.000000 0.000000 0.500000 0.500000</vertexdata>
+
+</vertex>
+</mesh>
+</MeshRoot>
